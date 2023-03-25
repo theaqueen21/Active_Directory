@@ -17,9 +17,9 @@ In Case Of Thise Error Message
 Start-Service WinRM
 ```
 
-To Check TrustedHosts
+To Check TrustedHosts Changes
 ```shell
-Set-Item WSMan:\localhost\Client\TrustedHosts
+Get-Item WSMan:\localhost\Client\TrustedHosts
 ```
 
 Adding A Second Client To The TrustedHosts

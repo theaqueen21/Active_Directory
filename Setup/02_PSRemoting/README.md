@@ -12,7 +12,7 @@ Set-Item WSMan:\localhost\Client\TrustedHosts -Value {ip}
 
 In Case Of Thise Error Message
 ![3](https://user-images.githubusercontent.com/94680549/227707268-332f5292-287b-48f7-8f21-f34430862518.png)
-
+Start The WinRM Service
 ```shell
 Start-Service WinRM
 ```

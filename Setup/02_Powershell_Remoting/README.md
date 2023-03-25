@@ -11,14 +11,15 @@ Set-Item WSMan:\localhost\Client\TrustedHosts -Value {ip}
 ```
 
 In Case Of Thise Error Message
-
+![3](https://user-images.githubusercontent.com/94680549/227707268-332f5292-287b-48f7-8f21-f34430862518.png)
+Start The WinRM Service
 ```shell
 Start-Service WinRM
 ```
 
-To Check TrustedHosts
+To Check TrustedHosts Changes
 ```shell
-Set-Item WSMan:\localhost\Client\TrustedHosts
+Get-Item WSMan:\localhost\Client\TrustedHosts
 ```
 
 Adding A Second Client To The TrustedHosts

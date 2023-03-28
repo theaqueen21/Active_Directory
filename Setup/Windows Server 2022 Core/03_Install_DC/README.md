@@ -1,4 +1,4 @@
-# 01.Install Domain Controller
+# Install Domain Controller
 
 1. Install the Active Directory Windows Feature
 

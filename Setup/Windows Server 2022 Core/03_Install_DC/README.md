@@ -29,7 +29,7 @@ As You Can See The DNS Has Changed To Local Network Which Puts It In A Loop
 To Change It
 
 ```shell
-Set-DNSClientServerAddress -InterfaceIndex # -ServerAddress {StaticIPOfTheServer}
+Set-DNSClientServerAddress -InterfaceIndex {InterfaceIndex} -ServerAddress {StaticIPOfTheServer}
 ```
 ![3](https://user-images.githubusercontent.com/94680549/228237517-329090e1-bf22-40eb-bc94-a74804018440.png)
 

@@ -11,7 +11,7 @@ sconfig
 ```
 
 #01 Changing The Hostname
-![3](https://user-images.githubusercontent.com/94680549/228310507-728df400-dfb8-4818-be73-01849b35c346.png)
+![3](https://user-images.githubusercontent.com/94680549/228310759-05a59df2-76d0-42a0-9783-703c4dce3e1e.png)
 
 
 Change The Hostname/ComputerName To Something Short

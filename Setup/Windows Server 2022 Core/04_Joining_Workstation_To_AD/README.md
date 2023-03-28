@@ -8,7 +8,7 @@ Set-DNSClientServerAddress -InterfaceIndex {InterfaceIndex} -ServerAddresses {St
 
 
 
-2.Second,Join The Computer To The AD
+2.Second Join The Workstation To The AD
 ```
 Add-Computer -Domainname xyz.com -Credential xyz\Administrator -Force -Restart
 ```

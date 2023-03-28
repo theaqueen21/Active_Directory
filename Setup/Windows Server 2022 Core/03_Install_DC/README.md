@@ -22,7 +22,8 @@ After The Server Has Restarted, We Need To Reconfigure The DNS Settings
 
 ```shell
 Get-DNSClientServerAddress
-```![2](https://user-images.githubusercontent.com/94680549/228236889-f385f7d5-f5dd-4297-8268-fda7114b23dc.png)
+```
+![2](https://user-images.githubusercontent.com/94680549/228236889-f385f7d5-f5dd-4297-8268-fda7114b23dc.png)
 As You Can See The DNS Has Changed To Local Network Which Puts It In A Loop
 
 To Change It

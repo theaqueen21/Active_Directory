@@ -4,6 +4,7 @@
 ```shell
 Set-DNSClientServerAddress -InterfaceIndex {InterfaceIndex} -ServerAddresses {StaticIPOfTheDC}
 ```
+![4](https://user-images.githubusercontent.com/94680549/228242752-9245cc00-a04c-4476-8a3a-200822a8fa28.png)
 
 
 

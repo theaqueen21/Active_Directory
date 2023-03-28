@@ -43,7 +43,7 @@ Choose A DomainName Of Your Liking And Set A Password
 ![2023-03-28 19_29_25-Greenshot](https://user-images.githubusercontent.com/94680549/228312586-0aaacf84-acd5-4083-8773-7a9cef72f1e7.jpg)
 
 
-After The Server Has Restarted, We Need To Reconfigure The DNS Settings
+After The Server Has Restarted, You Need To Reconfigure The DNS Settings
 
 ```shell
 Get-DNSClientServerAddress

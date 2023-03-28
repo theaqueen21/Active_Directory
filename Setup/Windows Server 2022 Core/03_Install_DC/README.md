@@ -6,8 +6,18 @@
 Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 ```
 
-# Joining the Workstation to the domain
+2. Configure The Active Directory
 
+```shell
+import-Module ADDSDeployment
+```
+
+```shell
+Install-ADDSForest
+```
+
+
+# Joining the Workstation to the domain
 
 
 ```

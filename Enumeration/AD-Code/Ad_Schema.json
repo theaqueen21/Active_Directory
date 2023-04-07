@@ -1,0 +1,50 @@
+{
+    "domain":"xyz.com",
+    "groups":[
+        {
+            "name": "Employees"
+        },
+        {
+            "name": "Secretaries"
+        }
+    ],
+    "users":[
+        {
+            "name":"Alice Lice",
+            "password":"P@ssw0rd789",
+            "Nationality":"American",
+            "groups":[
+                "Secretaries"
+            ]
+            
+                        
+        },
+        {
+            "name":"Bob Ob",
+            "password":"P@ssw0rdABC",
+            "Nationality":"Canadian",
+            "groups":[
+                "Employees"
+            ]
+            
+        },
+        {
+            "name":"Charlie Harlie",
+            "password":"P@ssw0rd123",
+            "Nationality":"Australian",
+            "groups":[
+                "Secretaries"
+            ]
+            
+        },
+        {
+            "name":"Ali Li",
+            "password":"P@ssw0rdABCD",
+            "Nationality":"Iraqi",
+            "groups":[
+                "Employees"
+            ]
+            
+        }
+    ]
+}

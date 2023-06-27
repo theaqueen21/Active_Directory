@@ -13,7 +13,7 @@ From Rockyou.txt
 3. Abuse The Pwned Users Using Impacket-wmiexec, Impacket-psexec, Impacket-smbexec and BloodHound To Map Out The Active Directory Environment And Try To Look For Passwords
 Left Out In The Open 
 
-# Note: Brief Demonstrations Coming Soon, Complete Demonstration Series Coming On Youtube On Our [Youtube Channel] Very Soon.
+# Note: Complete Demonstration Series Coming On Youtube On Our [Youtube Channel] Very Soon.
 
 
 [AD-Code]: https://github.com/theaqueen21/Active_Directory/tree/main/Enumeration/AD-Code
